@@ -1,7 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components
-import networkx as nx
-import matplotlib.pyplot as plt
 import got 
 
 st.title('Game of Thrones')
